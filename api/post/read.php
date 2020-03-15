@@ -47,7 +47,7 @@
     else {
         // NO Posts
         echo json_encode(
-            array('messgae' => 'No Posts Found')
-        )
+            array('message' => 'No Posts Found')
+        );
             
     }
